@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "pedometer"
+    },
+    {
+      "name": "start",
+      "value": "start"
+    },
+    {
+      "name": "stop",
+      "value": "start"
+    },
+    {
+      "name": "set_target",
+      "value": "set target"
+    },
+    {
+      "name": "step",
+      "value": "%s step"
+    },
+    {
+      "name": "walking_data",
+      "value": "walking data"
+    },
+    {
+      "name": "current_steps",
+      "value": "current steps:"
+    },
+    {
+      "name": "start_position",
+      "value": "start position:"
+    },
+    {
+      "name": "current_location",
+      "value": "current location:"
+    },
+    {
+      "name": "steps",
+      "value": "steps"
+    },
+    {
+      "name": "placeholder",
+      "value": "placeholder"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "sure"
+    },
+    {
+      "name": "reason_motion",
+      "value": "Get steps data"
+    },
+    {
+      "name": "reason_internet",
+      "value": "internet"
+    },
+    {
+      "name": "reason_location",
+      "value": "Allow applications to obtain device location information in pedometer scenarios."
+    },
+    {
+      "name": "reason_background",
+      "value": "Allow applications to run continuously in the background in pedometer scenarios."
+    },
+    {
+      "name": "reason_activity_motion",
+      "value": "Allow the application to read the user's current motion status in the pedometer scenario."
+    },
+    {
+      "name": "reason_location_in_background",
+      "value": "Allow applications to obtain device location information when running in the background of pedometer scenarios."
+    }
+  ]
+}
