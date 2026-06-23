@@ -2,39 +2,19 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "module description"
+      "value": "模块描述"
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "入口能力描述"
     },
     {
       "name": "EntryAbility_label",
-      "value": "ListItemEdit"
+      "value": "待办清单"
     },
     {
-      "name": "edit",
-      "value": "Edit"
-    },
-    {
-      "name": "deleted",
-      "value": "Successfully deleted"
-    },
-    {
-      "name": "incomplete",
-      "value": "Incomplete"
-    },
-    {
-      "name": "todo",
-      "value": "To-Do List"
-    },
-    {
-      "name": "undo",
-      "value": "Ongoing"
-    },
-    {
-      "name": "done",
-      "value": "Completed"
+      "name": "distributed_data_sync_reason",
+      "value": "用于跨设备同步待办任务数据"
     }
   ]
 }
